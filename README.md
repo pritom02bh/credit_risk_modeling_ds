@@ -12,5 +12,10 @@ Utilizing these three models, I aim to compute the overall expected loss (E.L.) 
 While the real world presents improbable scenarios, such as lenders grappling with unforeseen or extraordinary losses amid severe economic downturns, my project primarily addresses anticipated losses. Specifically, the project concentrates on the expected loss linked to credit risk.
 
 ### Expected Losses (EL)/ Expected Credit Loss
+Simply, it means the amount a lender might lose by lending to a borrower.
 
-
+The established credit risk modeling framework defines expected loss as a product of three components: 
+                **1. Probability of Default
+                  2. Loss given Default2000
+                  3. Exposure at default**
+            
