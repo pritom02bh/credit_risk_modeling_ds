@@ -17,4 +17,3 @@ And the end part is about maintaining the model and deploying it for professiona
 
 In the real world, there are some highly unlikely scenarios, like lenders facing unexpected losses or exceptional losses due to severe economic downturns. However, in this project, I have encountered expected losses.
 Expected Losses (EL): There is a certain credit risk associated with every borrower.
-
