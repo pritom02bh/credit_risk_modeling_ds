@@ -15,6 +15,7 @@ While the real world presents improbable scenarios, such as lenders grappling wi
 Simply, it means the amount a lender might lose by lending to a borrower.
 
 The established credit risk modeling framework defines expected loss as a product of three components: 
+
                     **1. Probability of Default              
                       2. Loss given Default2000                            
                       3. Exposure at default**                                        
