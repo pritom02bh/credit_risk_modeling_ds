@@ -17,7 +17,9 @@ Simply, it means the amount a lender might lose by lending to a borrower.
 The established credit risk modeling framework defines expected loss as a product of three components: 
 
                     1. Probability of Default              
-                    2. Loss given Default2000                            
-                    3. Exposure at default*                                      
+                    2. Loss Given Default                      
+                    3. Exposure at default
+
+                    EL = PD * LGD * EAD
                       
             
