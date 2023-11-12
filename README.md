@@ -11,4 +11,4 @@ Utilizing these three models, I aim to compute the overall expected loss (E.L.) 
 
 While the real world presents improbable scenarios, such as lenders grappling with unforeseen or extraordinary losses amid severe economic downturns, my project primarily addresses anticipated losses. Specifically, the project concentrates on the expected loss linked to credit risk.
 
-### Expected Losses (EL):
+### Expected Losses (EL)/ Expected Credit Loss
