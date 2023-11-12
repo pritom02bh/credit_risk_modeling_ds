@@ -21,5 +21,7 @@ The established credit risk modeling framework defines expected loss as a produc
                     3. Exposure at default
 
                     EL = PD * LGD * EAD
-                      
+
+
+              
             
