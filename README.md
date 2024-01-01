@@ -25,5 +25,4 @@ For the PD Model: We need an indicator of whether the borrower is defaulted or n
 For the LGD Model: We will need to calculate how much loan was recovered after the borrower had defaulted. (recoveries column)                                    
 For the Exposure at default: We need to calculate the total exposure at the moment the borrower defaulted compared to the total exposure in the past. (Total Recovered Principal Column)                                                  
 
-              
-            
+### Pre-processing
