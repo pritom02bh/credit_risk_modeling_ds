@@ -21,7 +21,9 @@ The established credit risk modeling framework defines expected loss as a produc
                     3. Exposure at default
 
                     EL = PD * LGD * EAD
-
+For the PD Model: We need an indicator of whether the borrower is defaulted or not. (loan status)
+For the LGD Model: We will need to calculate how much loan was recovered after the borrower has defaulted.
+For the Exposure at default: 
 
               
             
